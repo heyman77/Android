@@ -1,2 +1,2 @@
 # Android
-Reservation system
+This is an Android Application.
